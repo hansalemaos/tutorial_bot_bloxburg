@@ -1,33 +1,50 @@
 [![YT](https://i.ytimg.com/vi/tkM7mnGG2bA/maxresdefault.jpg)](https://www.youtube.com/watch?v=tkM7mnGG2bA)
 [https://www.youtube.com/watch?v=tkM7mnGG2bA]()
 
-pip install cv2imshow
+### pip install cv2imshow
+
 https://github.com/hansalemaos/cv2imshow
+
 https://pypi.org/project/cv2imshow/
 
-pip install adbblitz
+
+### pip install adbblitz
+
 https://github.com/hansalemaos/adbblitz
+
 https://pypi.org/project/adbblitz/
 
-pip install adbkit
+
+### pip install adbkit
+
 https://github.com/hansalemaos/adbkit
+
 https://pypi.org/project/adbkit/
 
-pip install locate-pixelcolor-cpppragma
+
+### pip install locate-pixelcolor-cpppragma
+
 https://github.com/hansalemaos/locate_pixelcolor_cpppragma
+
 https://pypi.org/project/locate-pixelcolor-cpppragma/
 
-Visual C++ Redistributables
+
+### Visual C++ Redistributables
+
 https://download.visualstudio.microsoft.com/download/pr/8b92f460-7e03-4c75-a139-e264a770758d/26C2C72FBA6438F5E29AF8EBC4826A1E424581B3C446F8C735361F1DB7BEFF72/VC_redist.x64.exe
 
-Bluestacks 5
+### Bluestacks 5
+
 https://www.bluestacks.com/bluestacks-5.html
 
-PyCharm Community 
+### PyCharm Community 
+
 https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC
 
-Bloxburg
+### Bloxburg
+
 https://www.roblox.com/games/185655149/Welcome-to-Bloxburg
+
 
 Neste vídeo, vou mostrar a você como criei um bot para o jogo "Bloxburg" que permite pescar e ganhar muito dinheiro. Com esse dinheiro, você pode comprar itens para construir uma casa incrível ou outros itens, como um carro.
 
